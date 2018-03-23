@@ -1,0 +1,3 @@
+rootProject.name = 'DoesColemanWork2'
+
+include ':app'
